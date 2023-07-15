@@ -1,2 +1,2 @@
-# MindSpore-seq2seq
-a repository used to implement seq2seq models by mindspore
+# MindSpore-Seq2Seq
+a repository used to implement Seq2Seq models by mindspore
